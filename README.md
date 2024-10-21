@@ -15,7 +15,7 @@ This is a simplified RESTful API for managing `Products` and `Orders` in a small
 
 ```bash
 git clone https://github.com/Abdelrahman20180315/Backend-Task-Izam-company.git
-cd ecommerce-api
+cd izam_task
 
 2. Install dependencies
 Run the following command to install the necessary dependencies:
